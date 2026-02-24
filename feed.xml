@@ -6,8 +6,8 @@
     <link>https://skyentific.github.io/sky_podcast/</link>
     <atom:link href="https://skyentific.github.io/sky_podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 08:39:50 GMT</lastBuildDate>
-    <pubDate>Tue, 24 Feb 2026 08:39:50 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 10:40:05 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 10:40:05 GMT</pubDate>
     <ttl>60</ttl>
 
     <!-- Podcast Metadata -->
@@ -28,10 +28,22 @@
       <link>https://skyentific.github.io/sky_podcast/</link>
     </image>
 
+    <!-- Episode 3: PwC AI CEO Survey (NEWEST) -->
+    <item>
+      <title>Majority of CEOs Report Zero Payoff from AI Splurge - The Register</title>
+      <description>Audio version of The Register article by Dan Robinson. PwC survey of 4,454 business leaders finds 56 percent of CEOs see neither revenue growth nor cost savings from AI investments, despite massive spending. Only 12 percent reported both lower costs and higher revenue.</description>
+      <link>https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/</link>
+      <guid isPermaLink="false">episode-003-pwc-ai-ceo-survey</guid>
+      <pubDate>Tue, 24 Feb 2026 10:40:05 GMT</pubDate>
+      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/pwc_ai/episode3_complete.mp3" length="5598912" type="audio/mpeg"/>
+      <itunes:duration>0:11:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <!-- Episode 2: Chinese Open-Source AI -->
     <item>
-      <title>What's Next for Chinese Open-Source AI - MIT Technology Review</title>
-      <description>Audio version of MIT Technology Review article by Caiwei Chen. Chinese open-source AI models like DeepSeek, Qwen, and Kimi are spreading globally, matching Western performance at lower costs.</description>
+      <title>What Next for Chinese Open-Source AI - MIT Technology Review</title>
+      <description>Audio version of MIT Technology Review article by Caiwei Chen. Chinese open-source AI models like DeepSeek, Qwen, and Kimi are spreading globally, matching Western performance at fraction of the cost.</description>
       <link>https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/</link>
       <guid isPermaLink="false">episode-002-chinese-open-source-ai</guid>
       <pubDate>Mon, 24 Feb 2026 08:30:00 GMT</pubDate>
@@ -43,7 +55,7 @@
     <!-- Episode 1: The Adolescence of Technology -->
     <item>
       <title>The Adolescence of Technology - Dario Amodei</title>
-      <description>Audio version of Dario Amodei's essay exploring AI risks including autonomy, bioweapons, authoritarianism, economic disruption, and unknown unknowns.</description>
+      <description>Audio version of Dario Amodei essay exploring AI risks including autonomy, bioweapons, authoritarianism, economic disruption, and unknown unknowns.</description>
       <link>https://www.darioamodei.com/essay/the-adolescence-of-technology</link>
       <guid isPermaLink="false">episode-001-adolescence-of-technology</guid>
       <pubDate>Mon, 24 Feb 2026 00:00:00 GMT</pubDate>
