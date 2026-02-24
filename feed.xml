@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sky Podcast</title>
+    <title>My Article Podcast</title>
     <description>Audio versions of interesting articles converted to MP3 for easy listening</description>
-    <link>https://Skyentific.github.io/sky_podcast/</link>
-    <atom:link href="https://Skyentific.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://skyentific.github.io/sky_podcast/</link>
+    <atom:link href="https://skyentific.github.io/sky_podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 03:12:52 GMT</lastBuildDate>
-    <pubDate>Tue, 24 Feb 2026 03:12:52 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 05:15:36 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 05:15:36 GMT</pubDate>
     <ttl>60</ttl>
 
     <!-- Podcast Metadata -->
-    <itunes:author>Sky</itunes:author>
+    <itunes:author>Skyentific</itunes:author>
     <itunes:summary>Audio versions of interesting articles converted to MP3 for easy listening</itunes:summary>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
-      <itunes:name>Sky</itunes:name>
-      <itunes:email>abmaltly@gmail.com</itunes:email>
+      <itunes:name>Skyentific</itunes:name>
+      <itunes:email>skyentific@example.com</itunes:email>
     </itunes:owner>
 
     <!-- Episode 1: The Adolescence of Technology -->
@@ -26,9 +26,9 @@
       <description>Audio version of Dario Amodei's essay "The Adolescence of Technology" from darioamodei.com. This essay explores the risks and challenges of powerful AI systems, including autonomy risks, misuse for destruction, economic disruption, and the path forward for humanity.</description>
       <link>https://www.darioamodei.com/essay/the-adolescence-of-technology</link>
       <guid isPermaLink="false">episode-001-adolescence-of-technology</guid>
-      <pubDate>Tue, 24 Feb 2026 03:12:52 GMT</pubDate>
-      <enclosure url="https://Skyentific.github.io/podcast/episodes/article_complete.mp3" length="84051884" type="audio/mpeg"/>
-      <itunes:duration>2:55:6</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 05:15:36 GMT</pubDate>
+      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/article_complete.mp3" length="84051884" type="audio/mpeg"/>
+      <itunes:duration>2:55:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:subtitle>Audio version of Dario Amodei's essay on AI risks and humanity's technological adolescence</itunes:subtitle>
       <itunes:summary>Audio version of Dario Amodei's essay "The Adolescence of Technology" - exploring AI risks including autonomy, bioweapons, authoritarianism, economic disruption, and unknown unknowns.</itunes:summary>
