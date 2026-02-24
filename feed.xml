@@ -6,8 +6,8 @@
     <link>https://skyentific.github.io/sky_podcast/</link>
     <atom:link href="https://skyentific.github.io/sky_podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 05:15:36 GMT</lastBuildDate>
-    <pubDate>Tue, 24 Feb 2026 05:15:36 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 08:32:09 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 08:32:09 GMT</pubDate>
     <ttl>60</ttl>
 
     <!-- Podcast Metadata -->
@@ -20,18 +20,32 @@
       <itunes:email>skyentific@example.com</itunes:email>
     </itunes:owner>
 
+    <!-- Episode 2: Chinese Open-Source AI (NEW) -->
+    <item>
+      <title>What's Next for Chinese Open-Source AI - MIT Technology Review</title>
+      <description>Audio version of MIT Technology Review article by Caiwei Chen. Chinese open-source AI models like DeepSeek, Qwen, and Kimi are spreading globally, matching Western performance at lower costs. This episode explores China's commitment to open source, the rise of specialized models, and how Chinese AI is becoming infrastructure for global builders.</description>
+      <link>https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/</link>
+      <guid isPermaLink="false">episode-002-chinese-open-source-ai</guid>
+      <pubDate>Tue, 24 Feb 2026 08:32:09 GMT</pubDate>
+      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/chinese_ai/episode2_complete.mp3" length="9399596" type="audio/mpeg"/>
+      <itunes:duration>0:19:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:subtitle>MIT Technology Review on Chinese open-source AI models like DeepSeek, Qwen, and Kimi</itunes:subtitle>
+      <itunes:summary>Chinese open-source AI models are spreading globally, matching Western performance at fraction of the cost. Analysis of China open-source strategy and impact.</itunes:summary>
+    </item>
+
     <!-- Episode 1: The Adolescence of Technology -->
     <item>
       <title>The Adolescence of Technology - Dario Amodei</title>
-      <description>Audio version of Dario Amodei's essay "The Adolescence of Technology" from darioamodei.com. This essay explores the risks and challenges of powerful AI systems, including autonomy risks, misuse for destruction, economic disruption, and the path forward for humanity.</description>
+      <description>Audio version of Dario Amodei's essay exploring AI risks including autonomy, bioweapons, authoritarianism, economic disruption, and unknown unknowns.</description>
       <link>https://www.darioamodei.com/essay/the-adolescence-of-technology</link>
       <guid isPermaLink="false">episode-001-adolescence-of-technology</guid>
-      <pubDate>Tue, 24 Feb 2026 05:15:36 GMT</pubDate>
+      <pubDate>Mon, 24 Feb 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://skyentific.github.io/sky_podcast/episodes/article_complete.mp3" length="84051884" type="audio/mpeg"/>
       <itunes:duration>2:55:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:subtitle>Audio version of Dario Amodei's essay on AI risks and humanity's technological adolescence</itunes:subtitle>
-      <itunes:summary>Audio version of Dario Amodei's essay "The Adolescence of Technology" - exploring AI risks including autonomy, bioweapons, authoritarianism, economic disruption, and unknown unknowns.</itunes:summary>
+      <itunes:subtitle>Audio version of Dario Amodei essay on AI risks and humanity technological adolescence</itunes:subtitle>
+      <itunes:summary>Audio version of Dario Amodei essay "The Adolescence of Technology" - exploring AI risks including autonomy, bioweapons, authoritarianism, economic disruption, and unknown unknowns.</itunes:summary>
     </item>
 
   </channel>
