@@ -1,79 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>My Article Podcast</title>
     <description>Audio versions of interesting articles converted to MP3 for easy listening</description>
     <link>https://skyentific.github.io/sky_podcast/</link>
-    <atom:link href="https://skyentific.github.io/sky_podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <ns0:link href="https://skyentific.github.io/sky_podcast/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Feb 2026 10:42:48 GMT</lastBuildDate>
     <pubDate>Tue, 24 Feb 2026 10:42:48 GMT</pubDate>
     <ttl>60</ttl>
 
-    <!-- Podcast Metadata -->
-    <itunes:author>Skyentific</itunes:author>
-    <itunes:summary>Audio versions of interesting articles converted to MP3 for easy listening</itunes:summary>
-    <itunes:category text="Technology"/>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:owner>
-      <itunes:name>Skyentific</itunes:name>
-      <itunes:email>skyentific@example.com</itunes:email>
-    </itunes:owner>
+    <item>
+      <title>Machines of Loving Grace: How AI Could Transform the World for the Better</title>
+      <description>Audio version of Dario Amodei's essay on the positive potential of powerful AI, covering biology, neuroscience, economic development, and governance.</description>
+      <link>https://darioamodei.com/essay/machines-of-loving-grace</link>
+      <guid isPermaLink="false">episode-006-machines-of-loving-grace</guid>
+      <pubDate>Wed, 25 Feb 2026 10:37:37 GMT</pubDate>
+      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/machines_of_loving_grace/episode6_complete.mp3" length="" type="audio/mpeg" />
+      <ns1:duration />
+      <ns1:explicit>false</ns1:explicit>
+    </item>
 
-    <!-- Podcast Cover Image -->
-    <itunes:image href="https://skyentific.github.io/sky_podcast/podcast_cover.png" />
+
+    
+    <ns1:author>Skyentific</ns1:author>
+    <ns1:summary>Audio versions of interesting articles converted to MP3 for easy listening</ns1:summary>
+    <ns1:category text="Technology" />
+    <ns1:explicit>false</ns1:explicit>
+    <ns1:owner>
+      <ns1:name>Skyentific</ns1:name>
+      <ns1:email>skyentific@example.com</ns1:email>
+    </ns1:owner>
+
+    
+    <item>
+      <title>The Persona Selection Model: Why AI Assistants might Behave like Humans</title>
+      <description>Audio version of Anthropic Alignment Science Blog post. This episode explores the Persona Selection Model (PSM), the idea that LLMs learn to simulate diverse characters during pre-training, and post-training elicits and refines a particular Assistant persona.</description>
+      <link>https://alignment.anthropic.com/2026/psm/</link>
+      <guid isPermaLink="false">episode-005-psm-alignment</guid>
+      <pubDate>Tue, 24 Feb 2026 12:55:35 GMT</pubDate>
+      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/psm_alignment/episode5_complete.mp3" length="464290412" type="audio/mpeg" />
+      <ns1:duration>1:42:00</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+    </item>
+
+
+    
+    <ns1:image href="https://skyentific.github.io/sky_podcast/podcast_cover.png" />
     <image>
       <url>https://skyentific.github.io/sky_podcast/podcast_cover.png</url>
       <title>My Article Podcast</title>
       <link>https://skyentific.github.io/sky_podcast/</link>
     </image>
 
-    <!-- Episode 4: 2026 Comfort Ends (NEWEST) -->
+    
     <item>
       <title>2026 is the Year Our Comfort Ends - ConsumeNote Archive</title>
       <description>Audio version of archived article from ConsumeNote. A brief reflection on the year 2026 marking the end of an era of comfort.</description>
       <link>https://ckarchive.com/b/75u7h8h6dqqmzi6rgg7rlaweg7o66bnh5wpm7</link>
       <guid isPermaLink="false">episode-004-2026-comfort-ends</guid>
       <pubDate>Tue, 24 Feb 2026 10:42:48 GMT</pubDate>
-      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/consume_note_2026/episode4_complete.mp3" length="247680" type="audio/mpeg"/>
-      <itunes:duration>0:00:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/consume_note_2026/episode4_complete.mp3" length="247680" type="audio/mpeg" />
+      <ns1:duration>0:00:25</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
     </item>
 
-    <!-- Episode 3: PwC AI CEO Survey -->
+    
     <item>
       <title>Majority of CEOs Report Zero Payoff from AI Splurge - The Register</title>
       <description>Audio version of The Register article by Dan Robinson. PwC survey of 4,454 business leaders finds 56 percent of CEOs see neither revenue growth nor cost savings from AI investments.</description>
       <link>https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/</link>
       <guid isPermaLink="false">episode-003-pwc-ai-ceo-survey</guid>
       <pubDate>Tue, 24 Feb 2026 10:40:00 GMT</pubDate>
-      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/pwc_ai/episode3_complete.mp3" length="5598912" type="audio/mpeg"/>
-      <itunes:duration>0:11:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/pwc_ai/episode3_complete.mp3" length="5598912" type="audio/mpeg" />
+      <ns1:duration>0:11:00</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
     </item>
 
-    <!-- Episode 2: Chinese Open-Source AI -->
+    
     <item>
       <title>What Next for Chinese Open-Source AI - MIT Technology Review</title>
       <description>Audio version of MIT Technology Review article by Caiwei Chen. Chinese open-source AI models like DeepSeek, Qwen, and Kimi are spreading globally.</description>
       <link>https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/</link>
       <guid isPermaLink="false">episode-002-chinese-open-source-ai</guid>
       <pubDate>Mon, 24 Feb 2026 08:30:00 GMT</pubDate>
-      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/chinese_ai/episode2_complete.mp3" length="9399596" type="audio/mpeg"/>
-      <itunes:duration>0:19:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/chinese_ai/episode2_complete.mp3" length="9399596" type="audio/mpeg" />
+      <ns1:duration>0:19:35</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
     </item>
 
-    <!-- Episode 1: The Adolescence of Technology -->
+    
     <item>
       <title>The Adolescence of Technology - Dario Amodei</title>
       <description>Audio version of Dario Amodei essay exploring AI risks including autonomy, bioweapons, authoritarianism, economic disruption.</description>
       <link>https://www.darioamodei.com/essay/the-adolescence-of-technology</link>
       <guid isPermaLink="false">episode-001-adolescence-of-technology</guid>
       <pubDate>Mon, 24 Feb 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/article_complete.mp3" length="84051884" type="audio/mpeg"/>
-      <itunes:duration>2:55:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/article_complete.mp3" length="84051884" type="audio/mpeg" />
+      <ns1:duration>2:55:06</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
     </item>
 
   </channel>
