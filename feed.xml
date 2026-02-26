@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>My Article Podcast</title>
@@ -6,7 +6,7 @@
     <link>https://skyentific.github.io/sky_podcast/</link>
     <ns0:link href="https://skyentific.github.io/sky_podcast/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 10:42:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 00:55:31 GMT</lastBuildDate>
     <pubDate>Tue, 24 Feb 2026 10:42:48 GMT</pubDate>
     <ttl>60</ttl>
 
@@ -28,7 +28,7 @@
     </image>
 
     
-    <item>
+    <item><title>Machines of Loving Grace - Dario Amodei</title><description>Audio version of Dario Amodei's essay exploring how AI could transform the world for the better. Covering biology and health, neuroscience and mental health, economic development, peace and governance, and the future of work and meaning.</description><link>https://www.darioamodei.com/essay/machines-of-loving-grace</link><guid isPermaLink="false">episode-005-machines-of-loving-grace</guid><pubDate>Thu, 26 Feb 2026 00:55:31 GMT</pubDate><itunes:duration>0:11:47</itunes:duration><itunes:explicit>false</itunes:explicit><enclosure url="https://skyentific.github.io/sky_podcast/episodes/machines_of_loving_grace/episode5_complete.mp3" length="6600704" type="audio/mpeg" /></item><item>
       <title>2026 is the Year Our Comfort Ends - ConsumeNote Archive</title>
       <description>Audio version of archived article from ConsumeNote. A brief reflection on the year 2026 marking the end of an era of comfort.</description>
       <link>https://ckarchive.com/b/75u7h8h6dqqmzi6rgg7rlaweg7o66bnh5wpm7</link>
