@@ -6,7 +6,7 @@
     <link>https://skyentific.github.io/sky_podcast/</link>
     <ns0:link href="https://skyentific.github.io/sky_podcast/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Feb 2026 06:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 01:49:46 GMT</lastBuildDate>
     <pubDate>Tue, 24 Feb 2026 10:42:48 GMT</pubDate>
     <ttl>60</ttl>
 
@@ -26,6 +26,18 @@
       <title>My Article Podcast</title>
       <link>https://skyentific.github.io/sky_podcast/</link>
     </image>
+
+
+    <item>
+      <title>The AI Bubble Is An Information War - Ed Zitron</title>
+      <description>Audio version of Ed Zitron's article from Where's Your Ed At. Critical analysis of the AI industry bubble, covering NVIDIA earnings, CoreWeave's financial troubles, OpenAI and Anthropic's misleading projections, and both companies' willingness to work with the military. A deep dive into how AI companies use media to mislead investors and the public.</description>
+      <link>https://www.wheresyoured.at/email/05a4c128-f14e-45c3-b350-ebab4d0a6de8/</link>
+      <guid isPermaLink="false">episode-006-ai-bubble-info-war</guid>
+      <pubDate>Wed, 04 Mar 2026 09:46:00 GMT</pubDate>
+      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/ai_bubble_info_war/episode1_complete.mp3" length="3884348" type="audio/mpeg" />
+      <itunes:duration>0:10:47</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
 
     
     <item><title>Machines of Loving Grace - Dario Amodei</title><description>Audio version of Dario Amodei's essay exploring how AI could transform the world for the better. Covering biology and health, neuroscience and mental health, economic development, peace and governance, and the future of work and meaning.</description><link>https://www.darioamodei.com/essay/machines-of-loving-grace</link><guid isPermaLink="false">episode-005-machines-of-loving-grace</guid><pubDate>Thu, 26 Feb 2026 00:55:31 GMT</pubDate><itunes:duration>1:35:38</itunes:duration><itunes:explicit>false</itunes:explicit><enclosure url="https://skyentific.github.io/sky_podcast/episodes/machines_of_loving_grace/episode5_complete.mp3" length="34430492" type="audio/mpeg" /></item><item>

@@ -1,0 +1,7 @@
+To be explicit about what support means, I'll quote the Wall Street Journal:
+
+Within hours of declaring that the federal government will end its use of artificial-intelligence tools made by tech company Anthropic, President Trump launched a major air attack in Iran with the help of those very same tools.
+
+Commands around the world, including U.S. Central Command in the Middle East, use Anthropic's Claude AI tool, people familiar with the matter confirmed.
+
+The command uses the tool for intelligence assessments, target identification and simulating battle scenarios even as tension between the Pentagon ratcheted up.

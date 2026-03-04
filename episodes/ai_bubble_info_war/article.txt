@@ -1,0 +1,213 @@
+The AI Bubble Is An Information War
+
+By Ed Zitron
+March 3, 2026
+
+Editor's Note: Apologies if you received this email twice - we had an issue with our mail server that meant it was hitting spam in many cases!
+
+So, last week the AI boom wilted brutally under the weight of an NVIDIA earnings that beat earnings but didn't make anybody feel better about the overall stability of the industry. Worse still, NVIDIA's earnings also mentioned 27 billion dollars in cloud commitments — literally paying its customers to rent the chips it sells, heavily suggesting that there isn't the underlying revenue.
+
+A day later, CoreWeave posted its Q4 FY2025 earnings, where it posted a loss of 89 cents per share, with 1.57 billion dollars in revenue and an operating margin of negative 6 percent for the quarter. Its 10-K only just came out the day before I went to press, and I've been pretty sick, so I haven't had a chance to look at it deeply yet. That being said, it confirms that 67 percent of its revenue comes from one customer: Microsoft.
+
+Yet the underdiscussed part of CoreWeave's earnings is that it had 850 megawatts of power at the end of Q4, up from 590 megawatts in Q3 2025 — an increase of 260 megawatts, and a drop in revenue if you actually do the maths.
+
+In Q3 2025, CoreWeave had 1.36 billion dollars in revenue on 590 megawatts of compute, working out to 2.3 million dollars per megawatt.
+In Q4 2025, CoreWeave had 1.57 billion dollars in revenue on 850 megawatts of compute, working out to 1.847 million dollars per megawatt.
+
+While this is a somewhat-inexact calculation — we don't know exactly how much compute was producing revenue in the period, and when new capacity came online — it shows that CoreWeave's underlying business appears to be weakening as it adds capacity, which is the opposite of how a business should run.
+
+It also suggests CoreWeave's customers — which include Meta, OpenAI, Microsoft for OpenAI, Google, and a 6.3 billion dollar backstop from NVIDIA for any unsold capacity through 2032 — are paying like absolute crap.
+
+CoreWeave, as I've been warning about since March 2025, is a time bomb. Its operations are deeply-unprofitable and require massive amounts of capital expenditures: 10 billion dollars in 2025 alone to exist, a number that's expected to double in 2026. It is burdened with punishing debt to make negative-margin revenue, even when it's being earned from the wealthiest and most-prestigious names in the industry. Now it has to raise another 8.5 billion dollars to even fulfil its 14 billion dollar contract with Meta.
+
+For FY2025, CoreWeave made 5.13 billion dollars in revenue, making a 46 million dollar loss in the process. The temptation is to suggest that margins might improve at some point, but considering it's dropped from 17 percent without debt for FY2024 to negative 1 percent for FY2025, I only see proof to the contrary. In fact, CoreWeave's margins have only decayed in the last four quarters, going from negative 3 percent, to 2 percent, to 4 percent, and now, back down to negative 6 percent.
+
+This suggests a fundamental weakness in the business model of renting out GPUs, which brings into question the value of NVIDIA's 68.13 billion dollars in Q4 FY2026 revenue, or indeed, Coreweave's 66.8 billion dollar revenue backlog. Remember: CoreWeave is an NVIDIA-backed and backstopped neocloud with every customer they could dream of.
+
+I think it's reasonable to ask whether NVIDIA might have sold hundreds of billions of dollars of GPUs that only ever lose money.
+
+Lots of people have come up with very complex ways of arguing we're in a supercycle or AI boom or some such bullshit, so I'm condensing some of these talking points and the ways to counteract them.
+
+OpenAI had 13.1 billion dollars in revenue in 2025! They only lost 8 billion!
+Did it? Based on my own reporting, which has been ignored by much of the press, OpenAI made 4.33 billion dollars through the end of September, and spent 8.67 billion dollars on inference in that period.
+Notice how I said inference. Training costs, data costs, and simply, the costs of doing business are in addition to that.
+
+OpenAI has 900 million weekly active users!
+Yeah everybody is talking about AI 24/7 and ChatGPT is the one everybody talks about.
+
+Google Gemini Has 750 million!
+Google changed Google Assistant to Gemini on literally everything, including Google Home, and force-fed it to users of Google Docs and Google Search.
+
+Claude Code is changing the world! It's writing SaaS now! It's replacing all coders!
+As I discussed both at the beginning of the Hater's Guide To Private Equity and my free newsletter last week, software is not as simple as spitting out code, neither is it able to automatically clone the SaaS experience.
+
+People Doubted Amazon But It Made Lots Of Money In The End!
+No they didn't. Benedict Evans defended Amazon's business model. Jay Yarow of Business Insider defended it too. Practical Ecommerce called Amazon Web Services Amazon's cash cow in October 2013.
+
+AWS Cost A Lot Of Money So We Should Spend So Much Money On AI!
+I'm sick and fucking tired of this point so I went and did the work, to find every single year of capex that Amazon spent. When you add together all of Amazon's capital expenditures between 2002 and 2017, which encompasses its internal launch, 2006 public launch, and it becoming profitable in 2015, you get 37.8 billion dollars in total capex. For some context, OpenAI raised around 42 billion dollars in 2025 alone.
+
+Anyway, let's talk about how much OpenAI has raised, and how none of that makes sense either.
+
+OpenAI's 15 billion, 35 billion, or 110 billion dollar Round, Where Amazon Only Invested 15 billion, and NVIDIA and SoftBank Are Paying In Installments — Stop Reporting That It Raised 110 billion, It Is Factually Incorrect.
+
+Great news! If you don't think about it for a second or read anything, OpenAI raised 110 billion dollars, with 50 billion from Amazon, 30 billion from NVIDIA and 30 billion from SoftBank.
+
+Well, okay, not really. Per The Information:
+OpenAI raised 15 billion dollars from Amazon, with 35 billion contingent on AGI or an IPO.
+OpenAI got commitments from SoftBank and NVIDIA, who may or may not have committed to 30 billion each, and will be paying in three installments.
+
+As of right now, evidence suggests that nobody has actually sent OpenAI any money.
+Per NVIDIA's 10-K filed last week, it is, and I quote, finalizing an investment and partnership agreement with OpenAI and there is no assurance that we will enter into an investment and partnership agreement with OpenAI or that a transaction will be completed.
+
+It's going to be interesting seeing how SoftBank funds this. It funded OpenAI's last 7.5 billion dollar check with part of the proceeds from a 15 billion dollar, one-year-long bridge loan, and the remaining 22.5 billion by selling its 5.83 billion dollars in NVIDIA stock and its 13.5 billion dollar margin loan using its ARM stock.
+
+Nevertheless, per its own statement, SoftBank intends to pay OpenAI 10 billion dollars on April 1st 2026, July 1st 2026, and October 1st 2026, all out of the Vision Fund 2.
+
+Its statement also adds that the Follow-on Investment is expected to be financed initially through bridge loans and other financing arrangements from major financial institutions, and subsequently replaced over time through the utilization of existing assets and other financing measures.
+
+Yet again, the media is simply repeating what they've been told versus reading publicly-available information.
+
+OpenAI's Not-A-Ponzi-Scheme Revenues.
+
+Talking of things that nobody seems to mind, on Friday Sam Altman accidentally said the quiet part out loud, live on CNBC, when asked about the very obviously circular deals with NVIDIA, Amazon and Microsoft.
+
+ALTMAN: I get where the concern comes from, but I don't think it matches my understanding of how this all works. This only makes sense if new revenue flows into the whole AI ecosystem. If people are not willing to pay for the services that we and others offer, if there's not new economic value being committed, then the whole thing doesn't work. And it would just it would be circular. But revenue for us, for other companies in the industry, is growing extremely quickly, and that's how the whole thing works.
+
+Hey Sam, what does the whole thing refer to here? Because I know you probably mean the AI industry, but this sounds exactly like a ponzi scheme!
+
+Now, jokes aside, ponzi schemes work entirely through feeding investor money to other investors. OpenAI and AI companies are not a ponzi scheme. There's real revenues, people are paying it money.
+
+However, the way that OpenAI describes the AI industry sure does sound like a scam. It's very obvious that neither OpenAI nor its peers have any plan to make any of this work beyond saying well we'll just keep making more money, and I'm being quite literal.
+
+That's right, by the end of 2026 OpenAI will make as much money as Paypal, by the end of 2027 it'll make 20 billion dollars more than SAP, Visa, and Salesforce, and by the end of 2028 it'll make more than TSMC, the company that builds all the crap that runs OpenAI's services. By the end of 2030, OpenAI will, apparently, make nearly as much annual revenue as Microsoft: 305.45 billion dollars.
+
+It's just that easy. And all it'll take is for OpenAI to burn another 230 billion dollars…though I think it'll need far more than that.
+
+Please note that I am going to humour some numbers that I have serious questions about, but they still illustrate my point.
+
+Per The Information, OpenAI had around 17.5 billion dollars in cash and cash equivalents at the end of June 2025 on 4.3 billion dollars of revenue, with 2.5 billion dollars in inference spend and 6.7 billion dollars in training compute.
+
+Let's be real simple for a second: suppose we are to believe that in the first half of the year, it cost 2.5 billion dollars in inference to make 4.3 billion dollars in revenue, so around 58 cents per dollar. For OpenAI to make 8.8 billion dollars — the distance between 4.3 billion dollars and 13.1 billion dollars — that's another 5.1 billion dollars in inference.
+
+Then there's the issue of training. For 2.5 billion dollars of revenue, OpenAI spent 6.7 billion dollars in training costs — or around 2.68 dollars per dollar of revenue. At that rate, OpenAI spent a further 23.58 billion dollars on training, bringing us to 28.6 billion dollars in burn just for the back half of 2025.
+
+Now, you might think I'm being a little unfair here — training costs aren't necessarily linear with revenues like inference is — but there's a compelling argument to be made that costs are far higher than we thought.
+
+The AI Bubble Is An Information War Started By Two Companies — Anthropic and OpenAI — Who Use The Media To Mislead the Public and Investors.
+
+I get that it's difficult too. You want to keep access. Reporting this stuff is important and relevant. The problem is — and I say this as somebody who has read every single story about OpenAI's funding and revenues! — that this company is clearly just…lying?
+
+Sure you can say it's projections, but there is a clear attempt to use the media to misinform investors and the general public.
+
+What I'm trying to get at is that OpenAI and, for that matter, Anthropic, has spent the last two years increasingly obfuscating the truth through leak after leak to the media.
+
+The numbers do not make any sense when you actually put them together, and the reason that these companies continue to do this is that they're confident that these outlets will never say a thing, or cover for the discrepancies by saying these are projections!
+
+These are projections, and I think it's a noteworthy story that these companies either wildly miss their projections, meaning costs, or almost exactly make their projections, meaning revenues, which is even weirder.
+
+But the biggest thing to take away from this is that one of the classic arguments against my work is that costs will just come down, but the costs never come down.
+
+That, and it appears that both of these companies are deliberately obfuscating their real numbers as a means of making themselves look better.
+
+Anthropic Is Fully Supportive Of The US Military Using Claude In The War In Iran, Wants To Help Governments Go To War And Kill People, And Wants You To Believe Otherwise.
+
+There appears to be some confusion around what happened in the last few days that I'd like to clear up, especially after the outpouring of respect for Anthropic doing the right thing when the Department of Defense threatened to label it a supply chain risk for not agreeing to its terms.
+
+Anthropic, of course, leaves out one detail: Hegseth said that effective immediately, no contractor, supplier, or partner that does business with the United States military may conduct any commercial activity with Anthropic. If Hegseth follows through, Anthropic's business will collapse.
+
+When the US military attacked Iran a day later, people quickly interpreted Anthropic's narrow, by its own words, and specific limitations with some sort of anti-war position.
+
+To be clear, these were the only issues that Anthropic had with the contract. Whether or not these are things that an LLM is actually good at, Anthropic, and I quote, supports all lawful uses of AI for national security aside from the two narrow exceptions above.
+
+Let's be explicit: Anthropic's Claude and its various models are fully approved for use in the military, and, to quote its own blog post, has supported American warfighters since June 2024 and has every intention of continuing to do so.
+
+To be explicit about what support means, I'll quote the Wall Street Journal:
+
+Within hours of declaring that the federal government will end its use of artificial-intelligence tools made by tech company Anthropic, President Trump launched a major air attack in Iran with the help of those very same tools.
+
+Commands around the world, including U.S. Central Command in the Middle East, use Anthropic's Claude AI tool, people familiar with the matter confirmed.
+
+The command uses the tool for intelligence assessments, target identification and simulating battle scenarios even as tension between the Pentagon ratcheted up, the people said, highlighting how embedded the AI tools are in military operations.
+
+In reality, Claude is likely being used to go through a bunch of images and to answer questions about particular scenarios.
+
+Nevertheless, Dario Amodei gets fawning press about being a patriot that deeply cares about safety less than a week after Anthropic dropped its safety pledge to not train an AI system unless it could guarantee in advance that its safety measures were accurate.
+
+Sam Altman Is A Coward That Wants To Have It Both Ways — Make No Mistake, He Wants ChatGPT Used By The Military.
+
+Stinky, nasty, duplicitous conman Sam Altman smelled blood amidst these negotiations and went in for the kill, striking a deal on Friday with the Pentagon for ChatGPT and OpenAI's other models to be used in the military's classified systems, with initial reports saying that it had similar guardrails to those requested by Anthropic.
+
+In a post about the contract, Clammy Sammy said that the DoD displayed a deep respect for safety and a desire to partner to achieve the best possible outcome, adding:
+
+AI safety and wide distribution of benefits are the core of our mission. Two of our most important safety principles are prohibitions on domestic mass surveillance and human responsibility for the use of force, including for autonomous weapon systems. The DoW agrees with these principles, reflects them in law and policy, and we put them into our agreement.
+
+Undersecretary Jeremy Levin almost immediately countered this notion, saying that the contract flows from the touchstone of all lawful use. This quickly created a diplomatic incident where OpenAI decided that the best time to discuss the contract was an entire Saturday and that the way to discuss it was posting.
+
+As questions mounted about the actual terms of the deal, Sam Altman realized that his only solution was to post, and at 4:13PM PT on Saturday February 28th 2026, he said down to make things significantly worse in a brief-yet-chaotic AMA.
+
+All of this is to say that Altman definitely, absolutely loves war, and wants OpenAI to make money off of it.
+
+What Happens Now?
+
+It's unclear.
+
+A late-evening story from Axios on Monday reported that OpenAI and the Pentagon have agreed to strengthen their recently agreed contract, following widespread backlash that domestic mass surveillance was still a real risk under the deal — though the language has not been formally signed.
+
+The language seen by Axios states:
+
+Consistent with applicable laws, including the Fourth Amendment to the United States Constitution, National Security Act of 1947, FISA Act of 1978, the AI system shall not be intentionally used for domestic surveillance of U.S. persons and nationals.
+
+For the avoidance of doubt, the Department understands this limitation to prohibit deliberate tracking, surveillance, or monitoring of U.S. persons or nationals, including through the procurement or use of commercially acquired personal or identifiable information.
+
+One has to wonder how different this is to what Anthropic wanted, but if I had to guess, it's those words intentionally and deliberate. The same goes for consistent with applicable laws. One useful thing that Altman confirmed was that ChatGPT will not be used with the NSA…and that any services to those agencies would require a follow-on modification to the contract. Doesn't mean they won't sign one!
+
+Forgive me for being cynical about something from Sam fucking Altman, but I just don't trust the guy, and this is an, as of writing this sentence, unsigned contract with bus-sized loopholes.
+
+Amodei And Altman: Two Cowards, Both Alike In Dignity.
+
+The funniest outcome of this chaos is that many people are very, very angry at Sam Altman and OpenAI, assuming that ChatGPT was somehow used in the conflict in Iran, and that Amodei and Anthropic somehow took a stand against a war it used as a means of generating revenue.
+
+In reality, we should loathe both Altman and Amodei for their natural jingoism and continual deception. Amodei and Anthropic timed their defiance of the Department of Defense to make it seem like its red lines were related to the war. I think it's good they have those red lines, but remember, those red lines do not involve stopping a war that threatens the lives of millions of people. Amodei supports that. Anthropic both supports and enables that.
+
+Altman, on the other hand, is a slimy little creep that wants you to believe that he signed the same deal as Anthropic wanted, but actually signed one that allows any lawful use.
+
+And in both cases, these men are both enthusiastic to work with a part of the government calling itself the Department of War. Both of them are willing and able to provide technology that will surveil or kill people, and while Amodei may have blushed at something to do with autonomous weapons or domestic surveillance, neither appear to have an issue with the actual harms that their models perpetuate.
+
+Neither of these men deserve a shred of credit or celebration. Both of them were and are ready and willing to monetize war, as long as it sort-of-kind-of follows the law.
+
+And rattling around at the bottom of this story is a dark problem caused by the fanciful language of both Altman and Amodei. When it's about cloud software, Dario Amodei is more than willing to say that it will cause mass elimination of jobs across technology, finance, law and consulting, and that it will replace half of all white collar labor. When it's time to raise money, Altman is excited to tell us that AI will surpass human intelligence in the next four years.
+
+Now that lives are theoretically at stake, Altman vaguely cares about the things that an LLM isn't very good at. Once Claude is used to choose places to bomb and people to kill, suddenly Anthropic cares that frontier AI systems are simply not reliable enough, and even then not so much as to stop a chatbot that hallucinates from being used in military scenarios.
+
+Altman and Amodei want it both ways. They want to be pop culture icons that go on Jimmy Fallon and thought leaders who tell ghost stories about indeterminately-powerful software they sell through deceit and embellishment. They want to be pontificators and spokespeople, elder statesmen that children look up to, with the specious profiles and glowing publicity to boot. They want Claude or ChatGPT as seen as capable of doing anything that any white collar worker is capable of, even if they have to lie to do so, helped by a tech and business media asleep at the wheel.
+
+They also want to be as deeply-connected to the military industrial complex as Lockheed Martin or RTX, formerly Raytheon. Anthropic has been working with the DoD since 2024, and OpenAI was so desperate to take its place that Altman has immolated part of his reputation to do so.
+
+Both of these companies are enthusiastic parts of America's war machine. This is not an overstatement — Dario Amodei and Anthropic believe deeply in the existential importance of using AI to defend the United States and other democracies, and to defeat our autocratic adversaries. OpenAI and Sam Altman are terrified of a world where AI companies act like they have more power than the government.
+
+For all the stories about Anthropic creating a nation of benevolent AI geniuses, Dario Amodei seems far more interested in creating a world dictated by what the United States of America deems to be legal or just, and providing services to help pursue those goals, as does OpenAI and, I'd argue, basically every AI lab.
+
+We're barely two weeks divorced from the agonizing press around Amanda Askell, Anthropic's resident philosopher, whose job, per the Wall Street Journal, is to teach Claude how to be good. There are no mentions in any story I can find about what she might teach Claude about what targets are considered fair game in military combat.
+
+WIRED's profile of her starts with a title that aged like milk in the sun, saying that the only thing standing between humanity and an AI apocalypse…is Claude?
+
+Tell that to the people in Tehran. I wonder what Askell taught Claude to say about war? I wonder what she taught Claude to say about democracy?
+
+I wonder if she even gives a shit. I doubt it.
+
+Generative AI isn't intelligent, but it allows people to pretend that it is, especially when the people selling the software — Altman and Amodei — so regularly overstate what it can do.
+
+By giving warmongers and jingoists the cover to trust this authoritative service — whether or not that's the case, they can simply point to the specious press — the ethical concern of whether or not an attack was ethical or not is now, whenever any western democracy needs it to be, something that can be handed off to Claude, and justified with the cold, logical framing of intelligence and data.
+
+None of this would be possible without the consistent repetition of the falsehoods peddled by OpenAI and Anthropic. Without this endless puffery and overstatements about the power of AI, we wouldn't have armed conflicts dictated by what a chatbot can burp up from the files it's fed. The deaths that follow will be a direct result of those who choose to continue to lie about what an LLM does.
+
+Make no mistake, LLMs are still incapable of unique ideas and are still, outside of coding, which requires massive subsidies to even be kind of useful, questionable in their efficacy and untrustworthy in their outputs. Nothing about the military's use of Claude makes it more useful or powerful than it was before — they're probably just loading files into it and asking it long questions about things and going huh at the end.
+
+The vulgar dishonesty of Altman and Amodei puts blood on both of their hands, and it's the duty of every single member of the media to remind people of this whenever you discuss their software.
+
+I get that you probably think I'm being dramatic, but tell me — do you think that the US military would've trusted LLMs had they not been marketed as capable of basically anything? Do you think any of this would've happened had there been an honest, realistic discussion of what AI can do today, and what it might do tomorrow?
+
+I guess we'll never know, and the people blown to bloody pieces at the other end of an LLM-generated stratagem won't be alive to find out either.
+
+Ed Zitron
