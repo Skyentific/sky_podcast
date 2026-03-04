@@ -1,7 +1,0 @@
-A day later, CoreWeave posted its Q4 FY2025 earnings, where it posted a loss of 89 cents per share, with 1.57 billion dollars in revenue and an operating margin of negative 6 percent for the quarter. Its 10-K confirms that 67 percent of its revenue comes from one customer: Microsoft.
-
-Yet the underdiscussed part of CoreWeave's earnings is that it had 850 megawatts of power at the end of Q4, up from 590 megawatts in Q3 2025 — an increase of 260 megawatts, and a drop in revenue if you actually do the maths.
-
-In Q3 2025, CoreWeave had 1.36 billion dollars in revenue on 590 megawatts of compute, working out to 2.3 million dollars per megawatt. In Q4 2025, CoreWeave had 1.57 billion dollars in revenue on 850 megawatts of compute, working out to 1.847 million dollars per megawatt.
-
-This shows that CoreWeave's underlying business appears to be weakening as it adds capacity, which is the opposite of how a business should run.

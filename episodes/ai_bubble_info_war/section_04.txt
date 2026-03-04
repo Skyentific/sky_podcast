@@ -1,7 +1,0 @@
-Lots of people have come up with very complex ways of arguing we're in a supercycle or AI boom. Let me counter some talking points.
-
-OpenAI had 13.1 billion dollars in revenue in 2025! They only lost 8 billion! Did it? Based on my own reporting, OpenAI made 4.33 billion dollars through the end of September, and spent 8.67 billion dollars on inference in that period. Notice how I said inference. Training costs, data costs, and simply, the costs of doing business are in addition to that.
-
-OpenAI has 900 million weekly active users! Yeah everybody is talking about AI 24/7 and ChatGPT is the one everybody talks about.
-
-Google Gemini Has 750 million! Google changed Google Assistant to Gemini on literally everything, including Google Home, and force-fed it to users of Google Docs and Google Search.

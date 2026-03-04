@@ -1,5 +1,0 @@
-CoreWeave, as I've been warning about since March 2025, is a time bomb. Its operations are deeply-unprofitable and require massive amounts of capital expenditures: 10 billion dollars in 2025 alone to exist, a number that's expected to double in 2026. It is burdened with punishing debt to make negative-margin revenue.
-
-For FY2025, CoreWeave made 5.13 billion dollars in revenue, making a 46 million dollar loss in the process. CoreWeave's margins have only decayed in the last four quarters, going from negative 3 percent, to 2 percent, to 4 percent, and now, back down to negative 6 percent.
-
-This suggests a fundamental weakness in the business model of renting out GPUs, which brings into question the value of NVIDIA's 68.13 billion dollars in Q4 FY2026 revenue.
