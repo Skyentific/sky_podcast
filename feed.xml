@@ -6,7 +6,7 @@
     <link>https://skyentific.github.io/sky_podcast/</link>
     <ns0:link href="https://skyentific.github.io/sky_podcast/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 01:49:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 12:39:51 GMT</lastBuildDate>
     <pubDate>Tue, 24 Feb 2026 10:42:48 GMT</pubDate>
     <ttl>60</ttl>
 
@@ -26,6 +26,18 @@
       <title>My Article Podcast</title>
       <link>https://skyentific.github.io/sky_podcast/</link>
     </image>
+
+
+    <item>
+      <title>The Looming AI Clownpocalypse - Matthew Honnibal</title>
+      <description>Audio version of Matthew Honnibal's article from honnibal.dev. A critical look at AI security risks that don't require superintelligence - from coding agent vulnerabilities and prompt injection to the normalization of deviance in AI development. Discusses OpenClaw security issues, Google Gemini API key problems, and the urgent need for better security posture in AI systems.</description>
+      <link>https://honnibal.dev/blog/clownpocalypse</link>
+      <guid isPermaLink="false">episode-007-ai-clownpocalypse</guid>
+      <pubDate>Wed, 04 Mar 2026 12:39:00 GMT</pubDate>
+      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/clownpocalypse/episode1_complete.mp3" length="4854960" type="audio/mpeg" />
+      <itunes:duration>0:13:00</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
 
 
     <item>
