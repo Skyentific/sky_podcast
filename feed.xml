@@ -6,7 +6,7 @@
     <link>https://skyentific.github.io/sky_podcast/</link>
     <ns0:link href="https://skyentific.github.io/sky_podcast/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 12:39:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 12:44:17 GMT</lastBuildDate>
     <pubDate>Tue, 24 Feb 2026 10:42:48 GMT</pubDate>
     <ttl>60</ttl>
 
@@ -26,6 +26,18 @@
       <title>My Article Podcast</title>
       <link>https://skyentific.github.io/sky_podcast/</link>
     </image>
+
+
+    <item>
+      <title>Clawed: On Anthropic and the Department of War - Dean W. Ball</title>
+      <description>Audio version of Dean W. Ball's essay on the Anthropic-Department of War conflict. A philosophical reflection on the death of the American republic, private property rights, and the proper locus of control over frontier AI. Discusses the Trump Administration's supply chain risk designation threat against Anthropic and its implications for the AI industry and American governance.</description>
+      <link>https://deanball.substack.com/p/clawed</link>
+      <guid isPermaLink="false">episode-008-clawed-anthropic-dow</guid>
+      <pubDate>Wed, 04 Mar 2026 12:43:00 GMT</pubDate>
+      <enclosure url="https://skyentific.github.io/sky_podcast/episodes/clawed_anthropic/episode1_complete.mp3" length="4720176" type="audio/mpeg" />
+      <itunes:duration>0:09:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 
 
     <item>
